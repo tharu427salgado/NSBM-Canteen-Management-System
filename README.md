@@ -1,2 +1,2 @@
 # NSBM-Canteen-Management-System
-this project develop by Java NetBeans
+This project develop by Java NetBeans
